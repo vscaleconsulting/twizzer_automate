@@ -1,3 +1,8 @@
+"""
+Author: Swapnil Shinde <Username:AtmegaBuzz>
+By Vscale Consulting LLP
+"""
+
 import tweepy 
 import json
 import requests
